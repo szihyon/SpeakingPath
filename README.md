@@ -60,6 +60,7 @@ Web services to help people with speech impairment rehabilitation
 
 ## 주요 기능 Main Function 🧰
 <img src = "./img/언어훈련.png"/>
+<br>
 <img src = "./img/치료상담.png"/>
 
 ### 언어재활 - 발음
@@ -270,9 +271,6 @@ AI
  ㄴ Flask
  ㄴ Docker
 ```
-
-### API
-<img src = "./img/api.png" />
 
 ### ERD
 <img src = "./img/ERD.png" />
