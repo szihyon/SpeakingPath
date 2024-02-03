@@ -63,67 +63,164 @@ Web services to help people with speech impairment rehabilitation
 <img src = "./img/치료상담.png"/>
 
 ### 언어재활 - 발음
-<img src = "./img/언어재활-발음.gif" />
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/언어재활-발음.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>음절 / 단어 / 문장 말하기를 연습할 수 있다.</li>
+                    <li>아나운서가 발음하는 영상을 확인할 수 있다.</li>
+                    <li>발화하는 자신의 모습을 확인할 수 있다.</li>
+                    <li>맞게 발음하였는지 정답 여부를 알려주고, 즐겨찾기에 등록할 수 있다.</li>
+                    <li>문제를 풀며 포인트를 획득할 수 있다.</li>
+                    <li>AI Model: Powered by <a href="https://openai.com/research/whisper">OpenAI Whisper v.20230314</a></li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
-- 음절 / 단어 / 문장 말하기를 연습할 수 있다.
-- 아나운서가 발음하는 영상을 확인할 수 있다.
-- 발화하는 자신의 모습을 확인할 수 있다.
-- 맞게 발음하였는지 정답 여부를 알려주고, 즐겨찾기에 등록할 수 있다.
-- 문제를 풀며 포인트를 획득할 수 있다.
-- AI Model : Powered by [OpenAI Whisper v.20230314](https://openai.com/research/whisper)
 
 ### 언어재활 - 인지
-<img src = "./img/사물고르기.gif" />
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/사물고르기.gif" />
+        </td>
+        <td>
+            <div class="text" width="500px" height="300px">
+                <ul>
+                    <li>문제가 제시되고, 해당하는 사물을 고르면 정답 유무를 알려준다.</li>
+                    <li>정답 유무를 알려주고, 즐겨찾기 등록, 다시 풀기가 가능하다.</li>
+                    <li>문제를 풀며 점수를 획득할 수 있다.</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
-- 문제가 제시되고, 해당하는 사물을 고르면 정답 유무를 알려준다.
-- 정답 유무를 알려주고, 즐겨찾기 등록, 다시 풀기가 가능하다.
-- 문제를 풀며 점수를 획득할 수 있다.
-
-<img src = "./img/사물이름맞히기.gif" />
-
-- 단어와 사진이 제시되면, 보기 중에서 선택하여 정답을 녹음한다.
-- 알맞게 발음하였는지 정답 유무를 확인할 수 있다.
-- AI Model : From [Kospeech](https://github.com/sooftware/kospeech) & Trained by [Google Colab](https://colab.google/)
-- Data set : Collected from [AI Hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=608)
-
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/사물이름맞히기.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>단어와 사진이 제시되면, 보기 중에서 선택하여 정답을 녹음한다.</li>
+                    <li>알맞게 발음하였는지 정답 유무를 확인할 수 있다.</li>
+                    <li>AI Model: From <a href="https://github.com/sooftware/kospeech" target="_blank">Kospeech</a> & Trained by <a href="https://colab.google.com/" target="_blank">Google Colab</a></li>
+                    <li>Data set: Collected from <a href="https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=608" target="_blank">AI Hub</a></li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
 ### 치료상담
-<img src = "./img/상담사상세검색.gif" />
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/상담사상세검색.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>전체 상담사 목록을 확인할 수 있습니다.</li>
+                    <li>조건 검색으로 세부 검색을 할 수 있습니다.</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
-- 전체 상담사 목록을 확인할 수 있습니다.
-- 조건 검색으로 세부 검색을 할 수 있습니다.
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/상담사상담신청.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>원하는 상담사를 선택한 후 상담사가 상담 가능한 시간에 상담 예약 신청이 가능합니다.</li>
+                    <li>상담사 승인 상태를 마이페이지에서 확인할 수 있습니다.</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
-<img src = "./img/상담사상담신청.gif" />
-
-- 원하는 상담사를 선택한 후 상담사가 상담 가능한 시간에 상담 예약 신청이 가능합니다.
-- 상담사 승인 상태를 마이페이지에서 확인할 수 있습니다.
-
-<img src = "./img/상담화면.gif" />
-
-- 승인된 상담은 예약 시간 10분 전 상담방에 입장할 수 있습니다.
-- 상담사와 1:1 화상상담이 가능합니다.
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/상담화면.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>승인된 상담은 예약 시간 10분 전 상담방에 입장할 수 있습니다.</li>
+                    <li>상담사와 1:1 화상상담이 가능합니다.</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
 ### 회원
-<img src = "./img/회원가입.gif" />
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/회원가입.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>이메일 인증을 통해 회원가입을 할 수 있습니다.</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
-- 이메일 인증을 통해 회원가입을 할 수 있습니다.
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/네이버로그인.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>네이버 로그인을 통해 로그인을 할 수 있습니다.</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
-<img src = "./img/네이버로그인.gif" />
-
-- 네이버 로그인을 통해 로그인을 할 수 있습니다.
-
-<img src = "./img/마이페이지.gif" />
-
-- 내 포인트 기반으로 등급을 조회할 수 있습니다.
-- 유저 정보를 업데이트 할 수 있습니다.
-- 예정된 상담 내역을 확인할 수 있습니다.
-- 예정된 상담 내역에서 화상상담에 참여할 수 있습니다.
-- 지난 상담을 확인할 수 있습니다.
-- 지난 상담사와 재예약을 할 수 있습니다.
-- 내가 저장한 학습 목록을 확인할 수 있습니다.
-- 내 화면을 확인할 수 있습니다.
-
-
+<table align="center">
+    <tr>
+        <td>
+            <img src="./img/마이페이지.gif" />
+        </td>
+        <td width="500px" height="300px">
+            <div class="text">
+                <ul>
+                    <li>내 포인트 기반으로 등급을 조회할 수 있습니다.</li>
+                    <li>유저 정보를 업데이트 할 수 있습니다.</li>
+                    <li>예정된 상담 내역을 확인할 수 있습니다.</li>
+                    <li>예정된 상담 내역에서 화상상담에 참여할 수 있습니다.</li>
+                    <li>지난 상담을 확인할 수 있습니다.</li>
+                    <li>지난 상담사와 재예약을 할 수 있습니다.</li>
+                    <li>내가 저장한 학습 목록을 확인할 수 있습니다.</li>
+                    <li>내 화면을 확인할 수 있습니다.</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+</table>
 
 <br>
 
