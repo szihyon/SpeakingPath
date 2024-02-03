@@ -28,7 +28,7 @@ Web services to help people with speech impairment rehabilitation
             <br />FE & UI/UX 💻
         </td>
         <td><a href="https://github.com/szihyon">
-            <img src="https://avatars.githubusercontent.com/szihyon" width="100px" alt="szihyon/><br />
+            <img src="https://avatars.githubusercontent.com/szihyon" width="100px" alt="szihyon"/><br />
             <sub><b>서지현</b></sub></a>
             <br /> FE & CI/CD 💻
         </td>
