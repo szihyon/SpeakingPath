@@ -66,10 +66,10 @@ Web services to help people with speech impairment rehabilitation
 ### 언어재활 - 발음
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/언어재활-발음.gif" />
         </td>
-        <td width="400px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>음절 / 단어 / 문장 말하기를 연습할 수 있다.</li>
@@ -84,15 +84,14 @@ Web services to help people with speech impairment rehabilitation
     </tr>
 </table>
 
-
 ### 언어재활 - 인지
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/사물고르기.gif" />
         </td>
-        <td>
-            <div class="text" width="400px" height="300px">
+        <td width="300px" height="300px">
+            <div class="text">
                 <ul>
                     <li>문제가 제시되고, 해당하는 사물을 고르면 정답 유무를 알려준다.</li>
                     <li>정답 유무를 알려주고, 즐겨찾기 등록, 다시 풀기가 가능하다.</li>
@@ -105,10 +104,10 @@ Web services to help people with speech impairment rehabilitation
 
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/사물이름맞히기.gif" />
         </td>
-        <td width="400px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>단어와 사진이 제시되면, 보기 중에서 선택하여 정답을 녹음한다.</li>
@@ -124,10 +123,10 @@ Web services to help people with speech impairment rehabilitation
 ### 치료상담
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/상담사상세검색.gif" />
         </td>
-        <td width="400px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>전체 상담사 목록을 확인할 수 있습니다.</li>
@@ -140,10 +139,10 @@ Web services to help people with speech impairment rehabilitation
 
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/상담사상담신청.gif" />
         </td>
-        <td width="500px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>원하는 상담사를 선택한 후 상담사가 상담 가능한 시간에 상담 예약 신청이 가능합니다.</li>
@@ -156,10 +155,10 @@ Web services to help people with speech impairment rehabilitation
 
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/상담화면.gif" />
         </td>
-        <td width="400px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>승인된 상담은 예약 시간 10분 전 상담방에 입장할 수 있습니다.</li>
@@ -173,10 +172,10 @@ Web services to help people with speech impairment rehabilitation
 ### 회원
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/회원가입.gif" />
         </td>
-        <td width="400px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>이메일 인증을 통해 회원가입을 할 수 있습니다.</li>
@@ -188,10 +187,10 @@ Web services to help people with speech impairment rehabilitation
 
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/네이버로그인.gif" />
         </td>
-        <td width="400px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>네이버 로그인을 통해 로그인을 할 수 있습니다.</li>
@@ -203,10 +202,10 @@ Web services to help people with speech impairment rehabilitation
 
 <table align="center">
     <tr>
-        <td width="500px">
+        <td width="400px">
             <img src="./img/마이페이지.gif" />
         </td>
-        <td width="400px" height="300px">
+        <td width="300px" height="300px">
             <div class="text">
                 <ul>
                     <li>내 포인트 기반으로 등급을 조회할 수 있습니다.</li>
