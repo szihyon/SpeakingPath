@@ -227,7 +227,7 @@ Web services to help people with speech impairment rehabilitation
 ## 주요 기술 Tech Stack 💡
 
 ### 시스템 아키텍쳐
-<img src="./img/architecture.png"/>
+<img src="./img/Architecture.png"/>
 
 ### Tool 
 ```
